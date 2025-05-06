@@ -1,22 +1,14 @@
 {
-  "name": "nodebackendstartertemplate",
+  "name": "project",
   "version": "1.0.0",
-  "description": "A folder preset structure of nodejs backend and some default nodemodules for express_application",
+  "description": "project",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MrImaginatory/nodeBackendStarterTemplate.git"
-  },
   "author": "MrImaginatory",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MrImaginatory/nodeBackendStarterTemplate/issues"
-  },
-  "homepage": "https://github.com/MrImaginatory/nodeBackendStarterTemplate#readme",
   "dependencies": {
     "bcryptjs": "^3.0.2",
     "dotenv": "^16.5.0",
