@@ -5,4 +5,4 @@ const asyncWrapper = (fn) => {
   };
   
 
-export {asyncWrapper}
+export default asyncWrapper
